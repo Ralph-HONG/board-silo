@@ -20,3 +20,7 @@ public class BoardWebApplication {
         SpringApplication.run(BoardWebApplication.class);
     }
 }
+
+
+
+//dkdkdkdkdk
