@@ -1,0 +1,3 @@
+rootProject.name = 'board-silo'
+include 'board-webApp'
+include 'board-domain'
